@@ -3,8 +3,8 @@
 <h2>PCI DSS Compliance & IAM | Projects:</h2>
 
 - <b>Preparing a Major Fortune 500 For a PCI Audit (PCI SME)</b>
-  - [How To Prepare For A PCI AUDIT] (https://drive.google.com/file/d/1iaJRoLQBlDWGKUXmUe8odndp1xyfwf4z/view?usp=sharing)
-  - [Updating Your Information Security Policy (ISP) for PCI DSS 4.0.1] (https://drive.google.com/file/d/141Ns-HwBgHjT5K2YtSdwOffg_XZaVJQ_/view?usp=sharing)
+  - [How To Prepare For A PCI AUDIT](https://drive.google.com/file/d/1iaJRoLQBlDWGKUXmUe8odndp1xyfwf4z/view?usp=sharing)
+  - [Updating Your Information Security Policy (ISP) for PCI DSS 4.0.1](https://drive.google.com/file/d/141Ns-HwBgHjT5K2YtSdwOffg_XZaVJQ_/view?usp=sharing)
   
 
 
