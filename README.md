@@ -7,7 +7,7 @@
   - [Updating Your Information Security Policy (ISP) for PCI DSS 4.0.1](https://drive.google.com/file/d/141Ns-HwBgHjT5K2YtSdwOffg_XZaVJQ_/view?usp=sharing)
   
 - <b>How I've Have Strengthened Organization Security By Ensuring Compliance</b>
-- [Verifying The CDE Scope](https://github.com/HectorJSantiago/Verifying_The_CDE_Scope)
+    - [Verifying The CDE Scope](https://github.com/HectorJSantiago/Verifying_The_CDE_Scope)
 
 
 
