@@ -13,6 +13,6 @@
 - <b>GRC Projects</b>
   - [Scoping Activities & Assessments](https://github.com/HectorJSantiago/Scoping-Activities-and-Assignments)
   - [Awareness & Training](https://github.com/HectorJSantiago/Awareness-and-Training)
-  - [Preparing a Document Request List DRL and Preparing for the Audit](https://github.com/HectorJSantiago/Preparing-a-DRL-and-Preparing-for-the-Audit)
+  - [Preparing a Document Request List (DRL) and Preparing for the Audit](https://github.com/HectorJSantiago/Preparing-a-DRL-and-Preparing-for-the-Audit)
     
 [<img align="left" alt="HectorJSantiago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hectorjsantiago/) [Linkedin](https://www.linkedin.com/in/hectorjsantiago/)
