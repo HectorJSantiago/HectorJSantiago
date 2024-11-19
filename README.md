@@ -11,7 +11,7 @@
   - [My Achievements](https://github.com/HectorJSantiago/Achievements/tree/main)
 
 - <b>GRC Projects</b>
- - [Scoping Activities & Assessments](https://github.com/HectorJSantiago/Scoping-Activities-and-Assignments)
+  - [Scoping Activities & Assessments](https://github.com/HectorJSantiago/Scoping-Activities-and-Assignments)
    
 [<img align="left" alt="HectorJSantiago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/hectorjsantiago/
