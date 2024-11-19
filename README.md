@@ -15,4 +15,4 @@
   - [Awareness & Training](https://github.com/HectorJSantiago/Awareness-and-Training)
     
 [<img align="left" alt="HectorJSantiago | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin](https://www.linkedin.com/in/hectorjsantiago/)
+[Linkedin](https://www.linkedin.com/in/hectorjsantiago/)
