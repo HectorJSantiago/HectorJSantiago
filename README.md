@@ -1,4 +1,4 @@
-<h1>Hey, I'm Hector Santiago: <br/><a>GRC & Cybersecurity Professional</a> <a </a></h1>
+<h1>Hey, I'm Hector Santiago: <br/><a>Information Security | GRC | PCI Compliance Specialist</a> <a </a></h1>
 
 <h2>PCI DSS Compliance & IAM | Projects:</h2>
 
