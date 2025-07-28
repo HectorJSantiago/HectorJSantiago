@@ -8,7 +8,6 @@
   
 - <b>Strengthening Organization Security By Ensuring Compliance</b>
     - [Verifying The CDE Scope](https://github.com/HectorJSantiago/Verifying_The_CDE_Scope)
-  - [My Achievements](https://github.com/HectorJSantiago/Achievements/tree/main)
 
 - <b>GRC Projects</b>
   - [Scoping Activities & Assessments](https://github.com/HectorJSantiago/Scoping-Activities-and-Assignments)
