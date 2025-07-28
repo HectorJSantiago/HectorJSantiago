@@ -2,7 +2,7 @@
 
 <h2>PCI DSS Compliance & IAM | Projects:</h2>
 
-- <b>Preparing For a PCI Audit (PCI SME)</b>
+- <b>Preparing For a PCI Audit (PCI Lead)</b>
   - [How To Prepare For A PCI AUDIT](https://drive.google.com/file/d/1iaJRoLQBlDWGKUXmUe8odndp1xyfwf4z/view?usp=sharing)
   - [Updating Your Information Security Policy (ISP) for PCI DSS 4.0.1](https://drive.google.com/file/d/1nUINDfLyDqasN-GctDt6zrzDo7ALUCIZ/view?usp=sharing)
   
