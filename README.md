@@ -1,6 +1,6 @@
 <h1>Hey, I'm Hector Santiago: <br/><a>Information Security Specialist</a> <a </a></h1>
 
-<h2>PCI DSS Compliance & IAM | Projects:</h2>
+<h2>Compliance:</h2>
 
 - <b>Preparing For a PCI Audit (PCI Lead)</b>
   - [How To Prepare For A PCI AUDIT](https://drive.google.com/file/d/1iaJRoLQBlDWGKUXmUe8odndp1xyfwf4z/view?usp=sharing)
